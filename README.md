@@ -53,7 +53,7 @@ to **angular.json** styles array:
 
 ### Install This Library
 
-`$ npm install ngx-intl-tel-input-gg --save`
+`$ npm install @grondi/ngx-intl-tel-input --save`
 
 ## Usage
 
